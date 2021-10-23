@@ -7,7 +7,7 @@
   "polacode.backgroundColor": "#6633CC",
   
   "editor.tabSize": 2,
-  "editor.fontSize": 14,
+  "editor.fontSize": 13,
   "editor.lineHeight": 26,
   "editor.fontFamily": "Source Code Pro",
   "terminal.integrated.shell.linux": "/bin/zsh",
@@ -42,7 +42,7 @@
   "explorer.compactFolders": false,
   "editor.renderLineHighlight": "gutter",
   "workbench.editor.labelFormat": "short",
-  "extensions.ignoreRecommendations": true,
+  "extensions.ignoreRecommendations": false,
 
   "breadcrumbs.enabled": true,
   "editor.parameterHints.enabled": false,
@@ -131,7 +131,7 @@
     "dotenv": "tune"
   },
 
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Sublime Material Theme - Dark",
   "window.menuBarVisibility": "toggle",
   "typescript.updateImportsOnFileMove.enabled": "never",
   "tabnine.experimentalAutoImports": true,
