@@ -1,5 +1,16 @@
 import multiprocessing
 
+from colorama import init
+import os, colorama
+from colorama import Fore,Style,Back
+import threading
+import itertools
+
+# Main variables
+
+debugStr = Fore.YELLOW + '*** DEBUG:-\t' + Style.RESET_ALL
+warnStr = Fore.RED + '*** ERROR:-\t' + Style.RESET_ALL
+
 ##########################
 #multiprocessing functions
 ##########################
