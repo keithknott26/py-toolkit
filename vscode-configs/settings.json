@@ -76,6 +76,8 @@
     ".env.*": "dotenv"
   },
 
+  "markdown.styles": ["file:///Users/kknott/Developer/keithknott26/py-toolkit/vscode-configs/github.markdown.css"],
+
   "emmet.syntaxProfiles": { "javascript": "jsx" },
   "emmet.includeLanguages": { "javascript": "javascriptreact" },
 
